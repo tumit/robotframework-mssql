@@ -1,4 +1,4 @@
-FROM ppodgorsek/robot-framework:latest
+FROM ppodgorsek/robot-framework:3.4.0
 
 ENV PYMSSQL_BUILD_WITH_BUNDLED_FREETDS=1
 

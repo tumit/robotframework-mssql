@@ -3,11 +3,11 @@ Library           DatabaseLibrary
 Library           BuiltIn
 
 *** Variables ***
-${DB_HOST}        remotemysql.com
+${DB_HOST}        yourhost
 ${DB_PORT}        3306
-${DB_NAME}        pNCXBHIqFB
-${DB_USER}        pNCXBHIqFB
-${DB_PWD}         zPpzTsO6Nc
+${DB_NAME}        yourdb
+${DB_USER}        youruser
+${DB_PWD}         yourpassword
 
 *** Keywords ***
 Clear Investor
